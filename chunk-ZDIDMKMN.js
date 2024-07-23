@@ -1,0 +1,1 @@
+import{e as o,f as r,g as e}from"./chunk-R6ZAFWXZ.js";import"./chunk-57FDC6UO.js";import"./chunk-JLZKUT7L.js";var i=[{path:"",component:r},{path:"registrar-beneficiario",component:e},{path:"registrar-proveedor",component:o}];export{i as AUHT_ROUTES};
