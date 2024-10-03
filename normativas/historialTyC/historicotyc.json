@@ -1,19 +1,29 @@
 [
   {
+    "carpeta":"putumayo",
     "nombreConvocatoria": "Convocatoria Putumayo",
-    "nombretycVigentes": "terminos_de_la_convocatoria_putumayoV4.0.pdf (Fecha Públicación: 2024-09-21)",
+    "nombretycVigentes": "Terminos_de_la_convocatoria_proveedores_VF.pdf",
     "historicoTyC": [
-       "Términos_y _Condiciones_v2.pdf",
-      "Terminos_de_la_convocaroria_V1.0.pdf"
+      "Terminos_de_la_convocatoria_provedores_V.1.0.pdf",
+      "Términos de la convocatoria provedores PNIS (V3.0).pdf"
      
 
     ]
   },
   {
+    "carpeta":"nds",
     "nombreConvocatoria": "Convocatoria Norte de Santander",
-    "nombretycVigentes": "Terminos_de_la_convocatoria_provedores_PNIS_Nte_Santander_V01.pdf",
+    "nombretycVigentes": "Términos de la convocatoria provedores PNIS_Nte Santander_V02_21092024.pdf",
     "historicoTyC": [
-      "Términos_y _Condiciones_v1.pdf"
+      "Términos de la convocatoria provedores PNIS_Nte Santander_V01_11092024-1.pdf"
+    ]
+  },
+    {
+    "carpeta":"nariño",
+    "nombreConvocatoria": "Convocatoria Nariño",
+    "nombretycVigentes": "Términos de la convocatoria provedores PNIS-Nariño (2.0 de 21 de Sep).pdf",
+    "historicoTyC": [
+      "Términos de la convocatoria provedores PNIS-Nariño (1.0 de 11 de agosto).pdf"
     ]
   }
 ]
