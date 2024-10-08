@@ -1,29 +1,27 @@
 [
-  {
-    "carpeta":"putumayo",
-    "nombreConvocatoria": "Convocatoria Putumayo",
-    "nombretycVigentes": "Terminos_de_la_convocatoria_proveedores_VF.pdf",
-    "historicoTyC": [
-      "Terminos_de_la_convocatoria_provedores_V.1.0.pdf",
-      "Términos de la convocatoria provedores PNIS (V3.0).pdf"
-     
-
-    ]
+   {
+    "nombreConvocatoria": "Convocatoria Córdoba",
+    "nombretycVigentes": "Términos de la convocatoria provedores Cordoba V. 1.0 (4 de Octubre del 2024)",
+    "url": "https://proveedores.direccionsustitucion-pnis.gov.co/TerminosConvocatoria/20241004_Teerminos_de_la_convocatoria_004_provedores_PNIS_V_1.0_Cordoba.pdf"
   },
   {
-    "carpeta":"nds",
+    "nombreConvocatoria": "Convocatoria Bolívar",
+    "nombretycVigentes": "Términos de la convocatoria provedores Bolicar V. 1.0 (4 de Octubre del 2024)",
+    "url": "https://proveedores.direccionsustitucion-pnis.gov.co/TerminosConvocatoria/20241004_Teerminos_de_la_convocatoria_005_provedores_PNIS_V_1.0_Bolivar.pdf"
+  },
+  {
     "nombreConvocatoria": "Convocatoria Norte de Santander",
-    "nombretycVigentes": "Términos de la convocatoria provedores PNIS_Nte Santander_V02_21092024.pdf",
-    "historicoTyC": [
-      "Términos de la convocatoria provedores PNIS_Nte Santander_V01_11092024-1.pdf"
-    ]
+    "nombretycVigentes": "Términos de la convocatoria provedores Norte de Santander V. 2.0 (21 de Septiembre del 2024)",
+    "url": "https://proveedores.direccionsustitucion-pnis.gov.co/TerminosConvocatoria/Terminos_de_la_convocatoria_provedores_PNIS_Nte_Santander_V01-1.pdf"
   },
-    {
-    "carpeta":"nariño",
+  {
     "nombreConvocatoria": "Convocatoria Nariño",
-    "nombretycVigentes": "Términos de la convocatoria provedores PNIS-Nariño (2.0 de 21 de Sep).pdf",
-    "historicoTyC": [
-      "Términos de la convocatoria provedores PNIS-Nariño (1.0 de 11 de agosto).pdf"
-    ]
+    "nombretycVigentes": "Términos de la convocatoria provedores Nariño V. 2.0 (21 de Septiembre del 2024)",
+    "url": "https://proveedores.direccionsustitucion-pnis.gov.co/TerminosConvocatoria/Teerminos_de_la_convocatoria_provedores_PNIS_Tumaco_V1-1.pdf"
+  },
+  {
+    "nombreConvocatoria": "Convocatoria Putumayo",
+    "nombretycVigentes": "Términos de la convocatoria proveedores Putumayo V. 4.0 (26 de Agosto del 2024)",
+    "url": "https://proveedores.direccionsustitucion-pnis.gov.co/TerminosConvocatoria/terminos_de_la_convocatoria_proveedores_putumayo_4.pdf"
   }
 ]
